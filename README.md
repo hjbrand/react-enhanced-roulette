@@ -8,6 +8,17 @@
 
 </div>
 
+## Attribution
+<p>
+This project is a fork of the original <a href="https://github.com/effectussoftware/react-custom-roulette" target="_blank">react-custom-roulette</a> created by <a href="https://github.com/effectussoftware" target="_blank">effectussoftware</a>. Full credit goes to the original author for their work on the initial version.
+</p>
+
+<p>
+The goal of this fork is to keep the project up to date, fix any bugs, and add new features for the community.
+</p>
+
+##
+
 <p align="center">Customizable React roulette wheel with spinning animation</p>
 
 <div align="center">
